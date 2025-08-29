@@ -1,10 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
-
-
-
+Name : Sudhindra.R
+Roll no : 212224240164
+Date of experiment : 29-08-25
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
@@ -101,7 +98,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 <img width="1919" height="1199" alt="Screenshot 2025-08-22 162633" src="https://github.com/user-attachments/assets/93278765-6b88-4205-8d5b-9b18b46772aa" />
 
 ## Result :
- 
+ Thus to Write and execute ALP on fundamental arithmetic and logical operations has been executed successfully.
 
 
 
